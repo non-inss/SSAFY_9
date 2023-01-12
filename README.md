@@ -37,6 +37,7 @@ print("오늘의 행운의 번호는", r)
 - <img src="file:///C:/Users/SSAFY/AppData/Roaming/marktext/images/08f855ab2cbb7bd3f50ab3838e468577282a9125.jpg" title="" alt="인쓰" width="239">
 
 ## 인생목표
+![인쓰](https://user-images.githubusercontent.com/122503960/211988987-a6b9c06b-a555-4de4-9a99-490ddde82da6.jpg)
 
 **내가 믿는 모든게 사실이다**  
 
