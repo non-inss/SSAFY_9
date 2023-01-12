@@ -34,7 +34,8 @@ print("오늘의 행운의 번호는", r)
 
 ## 이미지
 
-- <img title="" src="README/08f855ab2cbb7bd3f50ab3838e468577282a9125.jpg" alt="인쓰" width="239">
+- ![인쓰](https://user-images.githubusercontent.com/122503960/211990000-9df71f0a-64a6-46ea-a46e-2efb7f3f3b53.jpg)
+
 
 ## 인생목표
 
