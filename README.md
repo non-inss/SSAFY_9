@@ -2,11 +2,11 @@
 
 ## 기본 정보
 
-2. 
+1. 성별:
 
-3. 이름:
+2. 이름:
 
-4. 이메일:
+3. 이메일:
 
 ## 학력
 
@@ -33,12 +33,10 @@ print("오늘의 행운의 번호는", r)
 - [네이버](http://www.naver.com)
 
 ## 이미지
-![인쓰](https://user-images.githubusercontent.com/122503960/211989071-bdd0e657-537a-4f90-a096-025f3385864c.jpg)
 
-- <img src="file:///C:/Users/SSAFY/AppData/Roaming/marktext/images/08f855ab2cbb7bd3f50ab3838e468577282a9125.jpg" title="" alt="인쓰" width="239">
+- <img title="" src="README/08f855ab2cbb7bd3f50ab3838e468577282a9125.jpg" alt="인쓰" width="239">
 
 ## 인생목표
-
 
 **내가 믿는 모든게 사실이다**  
 
